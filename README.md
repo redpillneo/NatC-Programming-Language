@@ -1,1 +1,1 @@
-# NatC---Programming-Language
+# NatC-Programming-Language
